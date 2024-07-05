@@ -1,0 +1,1 @@
+This project is a simple signup page created using HTML and CSS. It provides a user-friendly interface for new users to register their accounts. The page is designed to be responsive and visually appealing, ensuring a smooth user experience across different devices and screen sizes.
